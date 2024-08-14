@@ -12,7 +12,7 @@ Ini adalah aplikasi pemrosesan pesanan berbasis Python yang memungkinkan Anda un
 ## Prasyarat
 
 - Python 3.10
-- Docker (opsional, untuk containerization)
+- Docker (untuk containerization)
 
 ## Instalasi
 
