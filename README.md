@@ -1,4 +1,4 @@
-# Aplikasi Pemrosesan Pesanan
+# Applikasi Sederhana dengan Python @Dibimbing.id 
 
 Ini adalah aplikasi pemrosesan pesanan berbasis Python yang memungkinkan Anda untuk mengelola pesanan, menghitung pajak, dan menampilkan ringkasan pesanan. Aplikasi ini dirancang untuk dijalankan dari baris perintah dan dapat di-containerized menggunakan Docker.
 
