@@ -11,7 +11,7 @@ Ini adalah aplikasi pemrosesan pesanan berbasis Python yang memungkinkan Anda un
 
 ## Prasyarat
 
-- Python 3.10
+- Python
 - Docker (untuk containerization)
 
 ## Instalasi
@@ -20,8 +20,7 @@ Ini adalah aplikasi pemrosesan pesanan berbasis Python yang memungkinkan Anda un
 
 1. Clone repository:
 
-   git clone https://github.com/username-anda/nama-repo-anda.git
-   cd nama-repo-anda
+   git clone https://github.com/Ajied21/Applikasi_Sederhana_dengan_Python_Dibimbing.id.git
 
 2. Bangun image Docker:
 
